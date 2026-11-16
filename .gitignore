@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Environment variable files — never commit credentials
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artefacts
+build/
+dist/
+*.zip
+*.egg-info/
