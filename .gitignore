@@ -19,3 +19,9 @@ build/
 dist/
 *.zip
 *.egg-info/
+
+# Kiro IDE config — not part of the project code
+.kiro/
+
+# Documentation folder — kept locally, not committed
+docs/
